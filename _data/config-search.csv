@@ -1,7 +1,10 @@
 field,index,display
 title,true,true
 date,true,true
-creator,true,false
-description,true,true
-subject,true,true
+performers,true,false
+instrumentation,true,false
+piece_title,true,true
 location,true,false
+semester,true,true
+institution,true,true
+venue,true,true
