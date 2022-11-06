@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+institution, Insitution,
+semester, Semester,
+date, Date,
+location, Location,
+venue, Venue
+festival, Festival,
+piece_title, Piece Title,
+physical_format_description, Physical Format,
+physical dimensions, Physical Dimensions,
+number_of_pages, Number of Pages,
+
+
+
