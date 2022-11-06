@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-semester,,,true,
+semester,,,true,Semester
 institution,Institution,true,,Institution
-location,,,true,
+location,,,true,Location
