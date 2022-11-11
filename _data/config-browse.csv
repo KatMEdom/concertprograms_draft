@@ -3,3 +3,5 @@ date,Date,true,,Date
 institution,Institution,true,,Institution
 location,,,true,Location
 semester,,,true,Semester
+piece_title,,,true,
+venue,,,true,
