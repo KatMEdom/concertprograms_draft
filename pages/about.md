@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection is comprised of eighteen concert programs and two posters for concerts on which one or more of my pieces were performed.  Seventeen of these programs and the two posters were digitized from my personal collection.  All of these concerts, two of which were degree recitals, occured while earning my composition degrees at Sacramento State and University of Oregon.  Admittedly, several concerts during the second half of my master's degree at University of Oregon are not represented in this collection.  Because of the on-set of the COVID-19 pandemic, these concerts were given virtually, and so I never recieved programs.  However, all of the pieces performed on these concerts are represented in the program for my Graduate Recital, the only born-digital program in the collection.  Recordings for the majority of the pieces represented in these programs are vailable on my YouTube channel.
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
