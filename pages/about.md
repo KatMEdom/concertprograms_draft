@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/objects/about_image.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About the Composer;Related Resources;Technical Credits" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Composer;Related Resources;Technical Credits" %}
 
 ## About the Collection
 
@@ -22,17 +22,14 @@ Kathryn Edom is a percussionist, composer, and aspiring music librarian original
 
 ## Related Resources
 
-### My YouTube Channel
+#### My YouTube Channel
 
 {% include feature/button.html text="Kathryn Edom's YouTube Channel" link="https://www.youtube.com/channel/UCiHb_jOIWC2o5ItJL-fI95Q" color="success" %}
 
-### Sacramento State School of Music
+#### Sacramento State School of Music
 
-{% include feature/button.html text="Sacramento State School of Music and Dance" link="https://www.csus.edu/college/arts-letters/music/" color="success" %}
+{% include feature/button.html text="Sacramento State School of Music" link="https://www.csus.edu/college/arts-letters/music/" color="success" %}
 
-### University of Oregon School of Music and Dance
+#### University of Oregon School of Music and Dance
 
 {% include feature/button.html text="University of Oregon SOMD" link="https://musicanddance.uoregon.edu" color="success" %}
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
