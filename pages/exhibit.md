@@ -4,6 +4,10 @@ layout:  about
 permalink:  /exhibit.html
 ---
 
+{% include feature/jumbotron.html objectid="/objects/about_image.jpg" %}
+
+{% include feature/nav-menu.html sections="Senior Composition Recital;Graduate Composition Recital" %}
+
 # Degree Recitals
 
 As with most music degrees, both my undergraduate and graduate composition degrees required a recital component.  These recitals were significant compositional achievements, and represent the majority of the music I have written over the course of my career.  As such, I felt it important and appropriate to single out these two performances for an exhibit.
