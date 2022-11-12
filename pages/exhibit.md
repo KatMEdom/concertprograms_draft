@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your colleciton
 ---
 
-{% include feature/jumbotron.html objectid="/objects/exhibit.jpg" title="Current Exhibit" %}
+{% include feature/jumbotron.html objectid="/objects/exhibit.jpg" text="composition degree recitals" title="Current Exhibit" %}
 
 {% include feature/nav-menu.html sections="Senior Composition Recital;Graduate Composition Recital" %}
 
