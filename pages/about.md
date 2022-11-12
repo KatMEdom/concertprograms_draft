@@ -22,15 +22,15 @@ Kathryn Edom is a percussionist, composer, and aspiring music librarian original
 
 ## Related Resources
 
-# My YouTube Channel
+### My YouTube Channel
 
 {% include feature/button.html text="Kathryn Edom's YouTube Channel" link="https://www.youtube.com/channel/UCiHb_jOIWC2o5ItJL-fI95Q" color="success" %}
 
-# Sacramento State School of Music
+### Sacramento State School of Music
 
 {% include feature/button.html text="Sacramento State School of Music and Dance" link="https://www.csus.edu/college/arts-letters/music/" color="success" %}
 
-# University of Oregon School of Music and Dance
+### University of Oregon School of Music and Dance
 
 {% include feature/button.html text="University of Oregon SOMD" link="https://musicanddance.uoregon.edu" color="success" %}
 
