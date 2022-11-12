@@ -42,3 +42,13 @@ My senior composition recital was given at the end of my last semester at Sacram
 {% include feature/video.html objectid="https://www.youtube.com/watch?v=dvCVhjb8LSY&t=51s" %}
 
 ## Graduate Composition Recital
+
+{% include feature/pdf.html objectid="program006_grad_recital" width="50" %}
+
+My time at University of Oregon was colored by unprecedented times for the country and the world.  By the end of Winter Term during my first year, rumors about a strange sickness ravaging parts of China were spreading like wildfire.  Once Winter Term finally ended and we left for our Spring Break, the one week seperating the end of Winter Term and the beginning of Spring Term, it became apparent to university officials that we could not continue in-person instruction.  That spring and the entire second year of my degree at Oregon were completely remote; an interesting experience when you live a five-minute walk from the music building.  This meant that for over half of my career at Oregon, concerts featuring my pieces were given virtually, including my Graduate Recital.  The situation being what it was, the School of Music and Dance had even decided to waive the public performance requirement for degree recitals; all I needed to do to get my degree was to present a portfolio of my completed pieces to the composition faculty, live recordings optional.  Nevertheless, I was determined to share my compositional achivements, and through quite a bit of planning, managed to put together a collection of pre-recorded videos.
+
+My Graduate Recital premiered virtually on my personal YouTube channel, without anny support from the univeristy, on June 18th, 2021, six days after Oregon's virtual commencement ceremony, which, coincedentally, was also the day my Grandfather died.  This recital is special to me as a single bright point that came at a very difficult time in my life, and I think the pieces themselves also embody that feeling.
+
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=XlZPkTbehbg&t=3s" %}
+
+
