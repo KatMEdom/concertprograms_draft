@@ -2,6 +2,8 @@
 title:  Degree Recitals
 layout:  about
 permalink:  /exhibit.html
+# include CollectionBuilder info at bottom
+credits: true
 ---
 
 {% include feature/jumbotron.html objectid="/objects/about_image.jpg" %}
