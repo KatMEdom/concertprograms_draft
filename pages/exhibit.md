@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your colleciton
 ---
 
-{% include feature/jumbotron.html objectid="/objects/exhibit.jpg" text="composition degree recitals" title="Current Exhibit" %}
+{% include feature/jumbotron.html objectid="/objects/exhibit.jpg" title="Current Exhibit" text="composition degree recitals" %}
 
 {% include feature/nav-menu.html sections="Senior Composition Recital;Graduate Composition Recital" %}
 
@@ -27,7 +27,7 @@ My senior composition recital was given at the end of my last semester at Sacram
 
 *Room 113* was actually written at the request of one of my friends in the percussion studio.  She and I had spent a few years at San Joaquin Delta College together in nearby Stockton before transferring to Sac State.  While at Delta, we were both part of a close-knit group of five percussionists.  We spent many Friday nights together enjoying each other's company before we inevitably ended up going our seperate ways.  By my last year at Sac State, four of us were now part of the percussion studio there, while the fifth member was studying at Texas Tech.  So for my recital, I wrote a piece the five of us could play together, also trying to play off the personalities of each member of the group.  The title was an homage to our time at Delta, referencing the room number of the band room on campus there.
 
-{% include feature/video.html objectid="https://www.youtube.com/watch?v=u8lr4DqyEfg&t=44s" width="25" %}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=u8lr4DqyEfg&t=44s" width="50" %}
 
 #### Recheat
 
@@ -39,7 +39,7 @@ My senior composition recital was given at the end of my last semester at Sacram
 
 *Willamette Jubilee* is a special piece because there is a good chance it will never be performed again.  One of the aspects I loved most about my time at Sac State was the unique opportunities available in the percussion studio.  The percussion teacher at the time, Dan Kennedy, who retired in the middle of my last year, was one of the leading experts in non-Western percussion on the West Coast.  It was while studying with him that I discovered my love for hand drums, including Indian tabla.  But besides hand drums, Dan also spent a good portion of every other semester teaching Balinese Gamelan.  One interesing aspect about gamelan, is that each set of instruments is completely unique.  There is no standardization like for many Western instruments, and so pieces cannot often be translated from one ensemble to another.  With this in mind, I wrote *Willamette Jubilee* specifically for the gamelan set owned by Sacramento State.  It was my first, and likely only, piece for gamelan, but I consider it a celebration of my amazing experiences in the Sac State Percussion Studio.
 
-{% include feature/video.html objectid="https://www.youtube.com/watch?v=dvCVhjb8LSY&t=51s" width="25" %}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=dvCVhjb8LSY&t=51s" width="50" %}
 
 ## Graduate Composition Recital
 
@@ -49,6 +49,6 @@ My time at University of Oregon was colored by unprecedented times for the count
 
 My Graduate Recital premiered virtually on my personal YouTube channel, without anny support from the univeristy, on June 18th, 2021, six days after Oregon's virtual commencement ceremony, which, coincedentally, was also the day my Grandfather died.  This recital is special to me as a single bright point that came at a very difficult time in my life, and I think the pieces themselves also embody that feeling.
 
-{% include feature/video.html objectid="https://www.youtube.com/watch?v=XlZPkTbehbg&t=3s" width="25" %}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=XlZPkTbehbg&t=3s" width="50" %}
 
 ***
